@@ -5,7 +5,7 @@ This case study is designed to understand how you think and approach problems ra
 # Objective
 The csv file in this repository contains some anonymized retail sales data which captures how three different brands have performed at three different retailers through 2019-2020. We want to understand how this category might evolve in 2021 by doing some basic forecasting based on the available data. Please use the csv and any external data sets or libraries to answer the following questions.
 
-# Question
+# Questions
 
 Based on the data attached, what do you infer are the key drivers of market share in this category? What meaningful changes do you see within the category during the time period covered by the data?
 
