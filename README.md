@@ -13,3 +13,19 @@ We want to set a benchmark for expected performance for 2021. Based on the attac
 
 Brand C is planning to introduce a new product configuration in 2021 with 4 units per package. Forecast the unit sales for this product at $19.99 and $14.99 unit prices.
 
+## Data Dictionary
+
+This is for the attached file. Every record is a weekly aggregation of sales for each brand at a retail chain.
+
+| field                   | definition                                                                 |
+|-------------------------|----------------------------------------------------------------------------|
+| chain_name              | The retailer where the product was sold                                    |
+| product_family          | The brand of the product                                                   |
+| brand_flavor            | The flavor of the product                                                  |
+| store_state             | The state where the product was sold                                       |
+| week_ending             | The Saturday of the week in which the product was sold                     |
+| brand_units_per_package | The number of product units within the package purchased by the customer   |
+| package_sales           | The sum of packages sold to customers                                      |
+| dollar_sales            | The sum of revenue associated with the package sales                       |
+| selling_stores          | The unique count of stores in the chain and state where the sales occurred |
+
